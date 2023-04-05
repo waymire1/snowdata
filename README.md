@@ -16,7 +16,7 @@ Problems with .net version for map implementation
 
 
 #####
-4/5/2023
+4/5/2023 11:50 am
 added map, and left side column. This will be for snow making business planning. This is only with 1 map, I will add more.
 THIS ALSO INCLUDE DIFFERENT DATA STRUCTURES.
 
@@ -32,3 +32,9 @@ https://api.openweathermap.org/data/2.5/weather?q=Big%20Bear%20Lake&appid=3e1361
 https://api.weather.gov/gridpoints/VEF/114,74/forecast
 
 THIS IS STILL UNFINISHED.. HAVE FUN
+
+#####
+
+4/5/2023
+3:00pm
+all data tracking works, and we are moving on to more functionality for the one property that is currently being used.
